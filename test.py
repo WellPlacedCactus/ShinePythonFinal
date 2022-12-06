@@ -1,2 +1,0 @@
-
-print('s' in 'small')
