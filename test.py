@@ -1,0 +1,2 @@
+
+print('s' in 'small')
